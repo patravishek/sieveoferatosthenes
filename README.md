@@ -1,4 +1,4 @@
-# sieveoferatosthenes
+# Sieve of Eratosthenes
 Implementation of Sieve of Eratosthenes to find all the prime numbers from a large set of number, the alogoritm has been tested on various conditions to evaluate the performance
 
 Algorithm Reference:
